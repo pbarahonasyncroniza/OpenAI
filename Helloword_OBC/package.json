@@ -1,0 +1,16 @@
+{
+  "name": "helloword_obc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openbim-components": "^1.0.0-alpha.76",
+    "three": "^0.156.1"
+  }
+}
